@@ -16,7 +16,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/samsung/a14xm/device.mk)
 
 PRODUCT_DEVICE := a14xm
-PRODUCT_NAME := omni_a14xm
+PRODUCT_NAME := twrp_a14xm
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-A146P
 PRODUCT_MANUFACTURER := samsung
